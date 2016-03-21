@@ -1,25 +1,5 @@
 
 #EXTM3U
-#EXTINF:-1,TGirlstv
-http://italians-server.tv:8000/live/orazio/orazio/6720.ts
-#EXTINF:-1,CentoXCento
-http://italians-server.tv:8000/live/orazio/orazio/6834.ts
-#EXTINF:-1,Boy Boy Tv
-http://italians-server.tv:8000/live/orazio/orazio/6835.ts
-#EXTINF:-1,EXOTICA TV
-http://italians-server.tv:8000/live/orazio/orazio/6865.ts
-#EXTINF:-1,PINK O TV
-http://italians-server.tv:8000/live/orazio/orazio/6863.ts
-#EXTINF:-1,REDLIGHT
-http://italians-server.tv:8000/live/orazio/orazio/6838.ts
-#EXTINF:-1,Sesto Senso Tv
-http://italians-server.tv:8000/live/orazio/orazio/6833.ts
-#EXTINF:-1,SCT HQ
-http://italians-server.tv:8000/live/orazio/orazio/6777.ts
-#EXTINF:-1,SCT HD
-http://italians-server.tv:8000/live/orazio/orazio/6779.ts
-#EXTINF:-1,#### Primafila Hot-Club #####
-http://italians-server.tv:8000/live/orazio/orazio/2410.ts
 #EXTINF:-1,ADULTRI_4
 http://www.t12v.com:8000/live/usa/usa/814.ts
 #EXTINF:-1,ADULTRI_5
@@ -126,76 +106,33 @@ http://www.t12v.com:8000/live/usa/usa/1016.ts
 http://www.t12v.com:8000/live/usa/usa/1017.ts
 #EXTINF:-1,IT_PRIMAFILA_19
 http://www.t12v.com:8000/live/usa/usa/1018.ts
-    #EXTINF:-1,Dorcel v
-    http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/4334.ts
-    #EXTINF:-1,    Hot Club 1 HD
-    http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/1000.ts
-    #EXTINF:-1,    Hot Club 2 HD
-    http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/1020.ts
-    #EXTINF:-1,    Hot Club 3 HD
-    http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/1021.ts
-    #EXTINF:-1,    Hot Club 4 HD
-    http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/1022.ts
-    #EXTINF:-1,    Hot Club 5 HD
-    http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/1120.ts
-    #EXTINF:-1,    Hot Club 6 HD
-    http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/1121.ts
-    #EXTINF:-1,    Hot Club 7 HD
-    http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/1122.ts
-    #EXTINF:-1,    Hot Club 8 HD
-    http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/1573.ts
-    #EXTINF:-1,    Hot Club 9 HD
-    http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/2637.ts
-    #EXTINF:-1,    Hot Club 10 HD
-    http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/2904.ts
+#EXTINF:-1,Dorcel v
+http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/4334.ts
+#EXTINF:-1, Русская ночь
+http://37.235.165.245:81/udp/225.50.70.3:1234
+#EXTINF:-1,CANDY TV
+http://37.235.165.245:81/udp/225.50.70.1:1234
+#EXTINF:-1, Frenchlover
+http://37.235.165.245:81/udp/225.50.70.7:1234
+#EXTINF:-1, PRIVATE TV
+http://37.235.165.245:81/udp/225.50.70.8:1234
+#EXTINF:-1, TGirls TV
+http://213.136.90.30:8000/live/test/test/11641.ts
+#EXTINF:-1, Sextosenso
+http://213.136.90.30:8000/live/test/test/11675.ts
+#EXTINF:-1, SCT
+http://213.136.90.30:8000/live/test/test/11676.ts
+#EXTINF:-1, Private Tv
+http://213.136.90.30:8000/live/test/test/11698.ts
+#EXTINF:-1, Pink TV
+http://213.136.90.30:8000/live/test/test/11720.ts
+#EXTINF:-1, Exotica Tv
+http://213.136.90.30:8000/live/test/test/11768.ts
+#EXTINF:-1, Dorcel XXX
+http://213.136.90.30:8000/live/test/test/11772.ts
+#EXTINF:-1, Cento X Cento
+http://213.136.90.30:8000/live/test/test/11799.ts
 
 
-#EXTINF:-1,IPTV ADULT
 
-http://tvservice.webhop.me:80/live/doma/doma/393.ts
-
-#EXTINF:-1,Dorcel tv
-
-http://tvservice.webhop.me:80/live/doma/doma/4334.ts
-
-#EXTINF:-1,Hot Club 1 HD
-
-http://tvservice.webhop.me:80/live/doma/doma/1000.ts
-
-#EXTINF:-1,Hot Club 2 HD
-
-http://tvservice.webhop.me:80/live/doma/doma/1020.ts
-
-#EXTINF:-1,Hot Club 3 HD
-
-http://tvservice.webhop.me:80/live/doma/doma/1021.ts
-
-#EXTINF:-1,Hot Club 4 HD
-
-http://tvservice.webhop.me:80/live/doma/doma/1022.ts
-
-#EXTINF:-1,Hot Club 5 HD
-
-http://tvservice.webhop.me:80/live/doma/doma/1120.ts
-
-#EXTINF:-1,Hot Club 6 HD
-
-http://tvservice.webhop.me:80/live/doma/doma/1121.ts
-
-#EXTINF:-1,Hot Club 7 HD
-
-http://tvservice.webhop.me:80/live/doma/doma/1122.ts
-
-#EXTINF:-1,Hot Club 8 HD
-
-http://tvservice.webhop.me:80/live/doma/doma/1573.ts
-
-#EXTINF:-1,Hot Club 9 HD
-
-http://tvservice.webhop.me:80/live/doma/doma/2637.ts
-
-#EXTINF:-1,Hot Club 10 HD
-
-http://tvservice.webhop.me:80/live/doma/doma/2904.ts
-
-
+    
