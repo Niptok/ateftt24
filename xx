@@ -1,5 +1,6 @@
-
 #EXTM3U
+#EXTINF:-1,[COLOR green]--------- TEST 1 /11/04 ---------[/COLOR]
+http://0.8.6.0:1024177        
 #EXTINF:-1,ADULTRI_4
 http://www.t12v.com:8000/live/usa/usa/814.ts
 #EXTINF:-1,ADULTRI_5
@@ -48,6 +49,9 @@ http://www.t12v.com:8000/live/usa/usa/1345.ts
 http://www.t12v.com:8000/live/usa/usa/1346.ts
 #EXTINF:-1,ADULTRI_27
 http://www.t12v.com:8000/live/usa/usa/1347.ts
+
+#EXTINF:-1,[COLOR green]--------- TEST 2 /11/04 ---------[/COLOR]
+http://0.8.6.0:1024177        
 #EXTINF:-1,BR_CLARO_ADULTO_PREMIUM
 http://www.t12v.com:8000/live/usa/usa/1539.ts
 #EXTINF:-1,BR_CLARO_ADULTO
@@ -70,6 +74,9 @@ http://www.t12v.com:8000/live/usa/usa/1194.ts
 http://www.t12v.com:8000/live/usa/usa/1333.ts
 #EXTINF:-1,Dorcel v
 http://tvservice.webhop.me:80/live/angelostoc-/salvatore-xsoci/4334.ts
+
+#EXTINF:-1,[COLOR green]--------- TEST 3 /11/04 ---------[/COLOR]
+http://0.8.6.0:1024177        
 #EXTINF:-1, Русская ночь
 http://37.235.165.245:81/udp/225.50.70.3:1234
 #EXTINF:-1,CANDY TV
@@ -118,92 +125,208 @@ http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/1582.ts
 http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2759.ts
 #EXTINF:-1,***to senso 
 http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/1578.ts
-#EXTINF:-1,-------HOTCLUB LIVE-------- 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2106.ts
-#EXTINF:-1,HOTCLUB 1 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2107.ts
-#EXTINF:-1,HOTCLUB 2 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2108.ts
-#EXTINF:-1,HOTCLUB 3 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2109.ts
-#EXTINF:-1,HOTCLUB 4 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2110.ts
-#EXTINF:-1,HOTCLUB 5 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2111.ts
-#EXTINF:-1,HOTCLUB 6 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2112.ts
-#EXTINF:-1,HOTCLUB 7 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2113.ts
-#EXTINF:-1,HOTCLUB 8 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2114.ts
-#EXTINF:-1,HOTCLUB 9 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2115.ts
-#EXTINF:-1,HOTCLUB 10 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2116.ts
-#EXTINF:-1,HOTCLUB 11 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2117.ts
-#EXTINF:-1,HOTCLUB 12 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2118.ts
-#EXTINF:-1,HOTCLUB 13 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2119.ts
-#EXTINF:-1,HOTCLUB 14 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2120.ts
-#EXTINF:-1,HOTCLUB 15 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2121.ts
-#EXTINF:-1,HOTCLUB 16 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2122.ts
-#EXTINF:-1,HOTCLUB 17 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2123.ts
-#EXTINF:-1,HOTCLUB 18 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2124.ts
-#EXTINF:-1,HOTCLUB 19 HD LIVE 
-http://calcaterraiptv.dyndns.tv:8877/live/user11/user11/2125.ts
-#EXTINF:-1,AD-Venus
-http://37.187.175.177:8000/live/44908/44908/986.ts
-        #EXTINF:-1,    AD-Venus
-        http://37.187.175.177:8000/live/44908/44908/1019.ts
-        #EXTINF:-1,     AD-pasteb
-        http://37.187.175.177:8000/live/44908/44908/1016.ts
-        #EXTINF:-1,    AD-T_girls
-        http://37.187.175.177:8000/live/44908/44908/991.ts
-        #EXTINF:-1,    AD-HOT_SHOTS
-        http://37.187.175.177:8000/live/44908/44908/1005.ts
-        #EXTINF:-1,    AD- xstrem
-        http://37.187.175.177:8000/live/44908/44908/1003.ts
-        #EXTINF:-1,     AD-ppor2
-        http://37.187.175.177:8000/live/44908/44908/1001.ts
-        #EXTINF:-1,     AD-xBlue
-        http://37.187.175.177:8000/live/44908/44908/996.ts
-        #EXTINF:-1,      AD-JasminTV
-        http://37.187.175.177:8000/live/44908/44908/987.ts
-        #EXTINF:-1,      AD-PASSION_x
-        http://37.187.175.177:8000/live/44908/44908/1022.ts
-        #EXTINF:-1,     AD-RedHot
-        http://37.187.175.177:8000/live/44908/44908/1011.ts
-        #EXTINF:-1,   AD-Jazmin_Channel-HD
-        http://37.187.175.177:8000/live/44908/44908/1006.ts
-        #EXTINF:-1,    AD-JASMIN
-        http://37.187.175.177:8000/live/44908/44908/995.ts
-        #EXTINF:-1,    AD-Breeze
-        http://37.187.175.177:8000/live/44908/44908/1018.ts
-        #EXTINF:-1,     AD-ShyGirl
-        http://37.187.175.177:8000/live/44908/44908/1009.ts
-        #EXTINF:-1,      AD-korea2
-        http://37.187.175.177:8000/live/44908/44908/1008.ts
-        #EXTINF:-1,      AD-HD Video
-        http://37.187.175.177:8000/live/44908/44908/1007.ts
-        #EXTINF:-1,      AD-Undermyfoot
-        http://37.187.175.177:8000/live/44908/44908/990.ts
-        #EXTINF:-1,      AD-Nurse
-        http://37.187.175.177:8000/live/44908/44908/992.ts
-        #EXTINF:-1,       AD-Starr
-        http://37.187.175.177:8000/live/44908/44908/993.ts
-        #EXTINF:-1,     AD-REDLIGHT 
-      http://37.187.175.177:8000/live/44908/44908/1000.ts
-        #EXTINF:-1,      AD-HD Video2
-        http://37.187.175.177:8000/live/44908/44908/989.ts
-        #EXTINF:-1,      AD-VOD3
-        http://37.187.175.177:8000/live/44908/44908/994.ts
 
+#EXTINF:-1,[COLOR green]--------- TEST 4 /11/04 ---------[/COLOR]
+http://0.8.6.0:1024177        
+#EXTINF:-1,    AD-Venus
+http://37.187.175.177:8000/live/44908/44908/1019.ts
+#EXTINF:-1,     AD-pasteb
+http://37.187.175.177:8000/live/44908/44908/1016.ts
+#EXTINF:-1,    AD-T_girls
+http://37.187.175.177:8000/live/44908/44908/991.ts
+#EXTINF:-1,    AD-HOT_SHOTS
+http://37.187.175.177:8000/live/44908/44908/1005.ts
+#EXTINF:-1,    AD- xstrem
+http://37.187.175.177:8000/live/44908/44908/1003.ts
+#EXTINF:-1,     AD-ppor2
+http://37.187.175.177:8000/live/44908/44908/1001.ts
+#EXTINF:-1,     AD-xBlue
+http://37.187.175.177:8000/live/44908/44908/996.ts
+#EXTINF:-1,      AD-JasminTV
+http://37.187.175.177:8000/live/44908/44908/987.ts
+#EXTINF:-1,      AD-PASSION_x
+http://37.187.175.177:8000/live/44908/44908/1022.ts
+#EXTINF:-1,     AD-RedHot
+http://37.187.175.177:8000/live/44908/44908/1011.ts
+#EXTINF:-1,   AD-Jazmin_Channel-HD
+http://37.187.175.177:8000/live/44908/44908/1006.ts
+#EXTINF:-1,    AD-JASMIN
+http://37.187.175.177:8000/live/44908/44908/995.ts
+#EXTINF:-1,    AD-Breeze
+http://37.187.175.177:8000/live/44908/44908/1018.ts
+#EXTINF:-1,     AD-ShyGirl
+http://37.187.175.177:8000/live/44908/44908/1009.ts
+#EXTINF:-1,      AD-korea2
+http://37.187.175.177:8000/live/44908/44908/1008.ts
+#EXTINF:-1,      AD-HD Video
+http://37.187.175.177:8000/live/44908/44908/1007.ts
+#EXTINF:-1,      AD-Undermyfoot
+http://37.187.175.177:8000/live/44908/44908/990.ts
+#EXTINF:-1,      AD-Nurse
+http://37.187.175.177:8000/live/44908/44908/992.ts
+#EXTINF:-1,       AD-Starr
+http://37.187.175.177:8000/live/44908/44908/993.ts
+#EXTINF:-1,     AD-REDLIGHT 
+http://37.187.175.177:8000/live/44908/44908/1000.ts
+#EXTINF:-1,      AD-HD Video2
+http://37.187.175.177:8000/live/44908/44908/989.ts
+#EXTINF:-1,      AD-VOD3
+http://37.187.175.177:8000/live/44908/44908/994.ts
+
+#EXTINF:-1,[COLOR green]--------- Special /11/04 ---------[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,PENTHOUSE HD
+http://enoezisan.home.dyndns.org:8000/live/android/android/5135.ts
+#EXTINF:-1,HOT HD
+http://enoezisan.home.dyndns.org:8000/live/android/android/5147.ts
+#EXTINF:-1,SEXTREME
+http://enoezisan.home.dyndns.org:8000/live/android/android/5126.ts
+#EXTINF:-1,FRLOVE
+http://178.46.154.106:8000/play/a01x
+#EXTINF:-1,CANDY
+http://178.46.154.106:8000/play/a025
+#EXTINF:-1,BRZZ
+http://178.46.154.106:8000/play/a00h
+#EXTINF:-1, Adult: Brazzers TV Europe
+http://178.57.231.124:4022/udp/234.5.2.248:1234
+#EXTINF:-1, Adult: PlayBoy TV
+http://178.57.231.124:4022/udp/234.5.2.247:1234
+#EXTINF:-1, Adult: Русская ночь
+http://178.57.231.124:4022/udp/234.5.2.249:1234
+#EXTINF:-1, Adult: XXL
+http://178.57.231.124:4022/udp/234.5.2.246:1234
+
+#EXTINF:-1,[COLOR green]--------- Special2 /11/04 ---------[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,XXX (18 ) | Primafila Hot Club 1
+http://195.154.183.48:8000/live/roberto/roberto/1122.ts
+#EXTINF:-1,XXX (18 ) | Primafila Hot Club 2
+http://195.154.183.48:8000/live/roberto/roberto/1124.ts
+#EXTINF:-1,XXX (18 ) | Primafila Hot Club 3
+http://195.154.183.48:8000/live/roberto/roberto/1125.ts
+#EXTINF:-1,XXX (18 ) | Primafila Hot Club 4
+http://195.154.183.48:8000/live/roberto/roberto/1126.ts
+#EXTINF:-1,XXX (18 ) | Primafila Hot Club 5
+http://195.154.183.48:8000/live/roberto/roberto/1127.ts
+#EXTINF:-1,XXX (18 ) | Primafila Hot Club 6
+http://195.154.183.48:8000/live/roberto/roberto/1128.ts
+#EXTINF:-1,XXX (18 ) | Primafila Hot Club 7
+http://195.154.183.48:8000/live/roberto/roberto/1129.ts
+#EXTINF:-1,XXX (18 ) | Primafila Hot Club 8
+http://195.154.183.48:8000/live/roberto/roberto/1130.ts
+#EXTINF:-1,XXX (18 ) | Primafila Hot Club 9
+http://195.154.183.48:8000/live/roberto/roberto/1131.ts
+#EXTINF:-1,XXX (18 ) | Primafila Hot Club 10
+http://195.154.183.48:8000/live/roberto/roberto/1123.ts
+#EXTINF:-1,XXX (18 ) | Venus
+http://195.154.183.48:8000/live/roberto/roberto/1137.ts
+#EXTINF:-1,XXX (18 ) | Sexto Senso
+http://195.154.183.48:8000/live/roberto/roberto/1136.ts
+#EXTINF:-1,XXX (18 ) | SCT HD
+http://195.154.183.48:8000/live/roberto/roberto/1135.ts
+#EXTINF:-1,XXX (18 ) | SCT 4
+http://195.154.183.48:8000/live/roberto/roberto/1134.ts
+#EXTINF:-1,XXX (18 ) | RedLight HD
+http://195.154.183.48:8000/live/roberto/roberto/1133.ts
+#EXTINF:-1,XXX (18 ) | Private
+http://195.154.183.48:8000/live/roberto/roberto/1132.ts
+#EXTINF:-1,XXX (18 ) | Playboy
+http://195.154.183.48:8000/live/roberto/roberto/1121.ts
+#EXTINF:-1,XXX (18 ) | Platinum
+http://195.154.183.48:8000/live/roberto/roberto/1120.ts
+#EXTINF:-1,XXX (18 ) | Pink TV
+http://195.154.183.48:8000/live/roberto/roberto/1119.ts
+#EXTINF:-1,XXX (18 ) | Pink Erotic 4
+http://195.154.183.48:8000/live/roberto/roberto/1118.ts
+#EXTINF:-1,XXX (18 ) | Pink Erotic 3
+http://195.154.183.48:8000/live/roberto/roberto/1117.ts
+#EXTINF:-1,XXX (18 ) | Pink Erotic 2
+http://195.154.183.48:8000/live/roberto/roberto/1116.ts
+#EXTINF:-1,XXX (18 ) | Pink Erotic 1
+http://195.154.183.48:8000/live/roberto/roberto/1115.ts
+#EXTINF:-1,XXX (18 ) | Penthouse HD
+http://195.154.183.48:8000/live/roberto/roberto/1114.ts
+#EXTINF:-1,XXX (18 ) | O La La
+http://195.154.183.48:8000/live/roberto/roberto/1113.ts
+#EXTINF:-1,XXX (18 ) | Meiden van Holland Hard NL
+http://195.154.183.48:8000/live/roberto/roberto/1112.ts
+#EXTINF:-1,XXX (18 ) | Hustler TV
+http://195.154.183.48:8000/live/roberto/roberto/1111.ts
+#EXTINF:-1,XXX (18 ) | Hustler HD
+http://195.154.183.48:8000/live/roberto/roberto/1110.ts
+#EXTINF:-1,XXX (18 ) | Hot
+http://195.154.183.48:8000/live/roberto/roberto/1109.ts
+#EXTINF:-1,XXX (18 ) | Exotica
+http://195.154.183.48:8000/live/roberto/roberto/1108.ts
+#EXTINF:-1, XXX (18 ) | Dusk DeLuxe NL
+http://195.154.183.48:8000/live/roberto/roberto/1107.ts
+#EXTINF:-1,XXX (18 ) | Dorcel
+http://195.154.183.48:8000/live/roberto/roberto/1106.ts
+#EXTINF:-1,XXX (18 ) | Desire
+http://195.154.183.48:8000/live/roberto/roberto/1105.ts
+#EXTINF:-1,XXX (18 ) | Cento Cento
+http://195.154.183.48:8000/live/roberto/roberto/1104.ts
+#EXTINF:-1,XXX (18 ) | Bunga Bunga
+http://195.154.183.48:8000/live/roberto/roberto/1103.ts
+#EXTINF:-1,XXX (18 ) | Brazzers tv
+http://195.154.183.48:8000/live/roberto/roberto/1102.ts
+#EXTINF:-1,XXX (18 ) | Boy & Boy
+http://195.154.183.48:8000/live/roberto/roberto/1101.ts
+#EXTINF:-1,XXX (18 ) | Blue Hustler
+http://195.154.183.48:8000/live/roberto/roberto/1100.ts
+#EXTINF:-1,XXX (18 ) | Adult 1
+http://195.154.183.48:8000/live/roberto/roberto/1080.ts
+#EXTINF:-1,XXX (18 ) | Adult 2
+http://195.154.183.48:8000/live/roberto/roberto/1081.ts
+#EXTINF:-1,XXX (18 ) | Adult 3
+http://195.154.183.48:8000/live/roberto/roberto/1082.ts
+#EXTINF:-1,XXX (18 ) | Adult 4
+http://195.154.183.48:8000/live/roberto/roberto/1083.ts
+#EXTINF:-1,XXX (18 ) | Adult 5
+http://195.154.183.48:8000/live/roberto/roberto/1084.ts
+#EXTINF:-1,XXX (18 ) | Adult 6
+http://195.154.183.48:8000/live/roberto/roberto/1085.ts
+#EXTINF:-1,XXX (18 ) | Adult 7
+http://195.154.183.48:8000/live/roberto/roberto/1086.ts
+#EXTINF:-1,XXX (18 ) | Adult 8
+http://195.154.183.48:8000/live/roberto/roberto/1087.ts
+#EXTINF:-1,XXX (18 ) | Adult 9
+http://195.154.183.48:8000/live/roberto/roberto/1088.ts
+#EXTINF:-1,XXX (18 ) | Adult 10
+http://195.154.183.48:8000/live/roberto/roberto/1089.ts
+#EXTINF:-1,XXX (18 ) | Adult 11
+http://195.154.183.48:8000/live/roberto/roberto/1090.ts
+#EXTINF:-1,XXX (18 ) | Adult 12
+http://195.154.183.48:8000/live/roberto/roberto/1091.ts
+#EXTINF:-1,XXX (18 ) | Adult 13
+http://195.154.183.48:8000/live/roberto/roberto/1092.ts
+#EXTINF:-1,XXX (18 ) | Adult 14
+http://195.154.183.48:8000/live/roberto/roberto/1093.ts
+#EXTINF:-1,XXX (18 ) | Adult 15
+http://195.154.183.48:8000/live/roberto/roberto/1094.ts
+#EXTINF:-1,XXX (18 ) | Adult 16
+http://195.154.183.48:8000/live/roberto/roberto/1095.ts
+#EXTINF:-1,XXX (18 ) | Adult 17
+http://195.154.183.48:8000/live/roberto/roberto/1096.ts
+#EXTINF:-1,XXX (18 ) | Adult 18
+http://195.154.183.48:8000/live/roberto/roberto/1097.ts
+#EXTINF:-1,XXX (18 ) | Adult 19
+http://195.154.183.48:8000/live/roberto/roberto/1098.ts
+#EXTINF:-1,XXX (18 ) | Adult 20
+http://195.154.183.48:8000/live/roberto/roberto/1099.ts
+#EXTINF:-1,PlayBoy
+http://www.ipsat.me:8000/live/younis/younis/2584.ts
+#EXTINF:-1,PLAYBOY 2
+http://www.ipsat.me:8000/live/younis/younis/2355.ts
+#EXTINF:-1,BABESTATION
+http://www.ipsat.me:8000/live/younis/younis/2394.ts
+#EXTINF:-1,PINK EROTIC 1
+http://www.ipsat.me:8000/live/younis/younis/2395.ts
+#EXTINF:-1,PINK EROTIC 2
+http://www.ipsat.me:8000/live/younis/younis/2396.ts
+#EXTINF:-1,PINK EROTIC 3
+http://www.ipsat.me:8000/live/younis/younis/2397.ts
+#EXTINF:-1,PINK EROTIC 4
+http://www.ipsat.me:8000/live/younis/younis/2398.ts
 
     
